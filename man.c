@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-	printf("хуита ta ta ta   \n");
+	printf("ху ита ta ta ta   \n");
 	return 0;
 }
 	
